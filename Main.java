@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         int resultOfMyCalculation;
-        int firstValue = 20;
+        int firstValue = 10;
         int secondValue = 6;
         resultOfMyCalculation = doMyCalculation(firstValue, secondValue);
         System.out.println("Hello World! ********** " + resultOfMyCalculation + " **********");
